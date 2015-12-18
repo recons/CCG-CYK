@@ -1,0 +1,9 @@
+John := np
+Mary := np
+me := np
+likes := (s\np)/np
+gives := ((s\np)/np)/np
+chase := np
+enjoys := (s\np)/np
+and := conj
+this := np
