@@ -54,5 +54,3 @@ case class ComplexCategory (res: Category, slash: Slash, arg: Category) extends 
 
 }
 
-class WorkerActor extends Actor {}
-
