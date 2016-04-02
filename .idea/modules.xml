@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CYK-Parser-CCG.iml" filepath="$PROJECT_DIR$/CYK-Parser-CCG.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/cyk-parser-ccg.iml" filepath="$PROJECT_DIR$/.idea/modules/cyk-parser-ccg.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/cyk-parser-ccg-build.iml" filepath="$PROJECT_DIR$/.idea/modules/cyk-parser-ccg-build.iml" />
     </modules>

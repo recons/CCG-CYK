@@ -1,4 +1,4 @@
-name := "untitled2"
+name := "CYK-Parser-CCG"
 
 version := "1.0"
 
